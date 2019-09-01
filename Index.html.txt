@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+ <head>
+   <meta charset="utf-8">
+   <h1>Esto es un texto de prueba para probar elementos en línea y en bloque</h1>
+ </head>
+ <body>
+   <div=id "contenedor">  
+     <section>
+       <article>
+         <p>En 2013, <strong> Bob Dylan y David Bowie</strong> aparecieron en los medios de comunicación por motivos no ligados a la necrológica, como quizá muchos temían, sino como novedad musical y su polémica correspondiente. Tras diez años de silencio, Bowie sorprendió al mundo con el lanzamiento del single <em>Where Are We Now</em>. Era una canción que se publicitó en internet a través de redes sociales y plataformas de descarga con enorme repercusión. El artista sabía cómo vender música en la era del todo gratis.<br>Pero jugaba con ventaja. Primero, era David Bowie, quien llevaba desde finales de la década de los noventa volcado con la experiencia artística y comercial en internet, y su larga ausencia aumentaba considerablemente las expectativas sobre el disco. The Next Day además venía con una portada inconcebible en un artista que ha basado la mitad de su carrera en la imagen: en un acto de provocación, el diseñador Jonathan Harnbrook había tapado uno de sus primeros planos más reconocibles, su propia imagen en la cubierta del disco Heroes (1977). Pero una de las fotos del interior volvía a ser otro ready made, transfigurado como el escritor <strong>William S. Burroughs</strong>, personaje que debe tener el récord mundial de fotos junto a los rockeros más célebres.</p> 
+       </article>
+      </section>   
+   </div> 
+     <div=class "bloque">  
+     <section>
+       <div>  
+     <section>
+       <article>
+         <p>El single también sirvió de trampa, pues tras su estructura de balada (en la línea de intérpretes británicos como <strong>Scott Walker</strong>), se escondía un elepé lleno de rock con temas nostálgicos que volvían sobre la carrera de Bowie, el paso del tiempo y la sombra de la muerte. Hacía décadas que el cantante no escribía en ese tono autobiográfico. En realidad, desde sus inicios, cuando cantaba como un Dylan sofisticado por la psicodelia y el arte visual.</p> 
+       </article>
+      </section>   
+   </div> 
+     <div>
+<img src="bowie_y_dylan".jpg" width="350" height="500" alt="Fotos separadas de David Bowie y Bob Dylan en blanco y negro">
+<img src="portada_bowie_heroes.jpg" width="350" height="500" alt="Portada del disco Heroes de David Bowie">
+     </div>     
+</body>
+</html>
+
+
