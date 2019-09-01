@@ -12,7 +12,7 @@
        </article>
       </section>   
    </div> 
-     <div=class "bloque">  
+     <div=style="color:red">  
      <section>
        <div>  
      <section>
